@@ -1,6 +1,5 @@
-### Hi there 👋
 
-<h1 align="center">Hey there, I'm Ayush.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
+<h1 align="center">Hi there👋, I'm Ayush.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5px"></h1>
 
 <h3 align="center">Machine Learning enthusiast, explorer and a quick learner.</h3>
 
