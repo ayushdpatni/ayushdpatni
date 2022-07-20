@@ -8,6 +8,7 @@
 
 - Data Structures And Algorithms
 - Database(Oracle)
+- DAPPs
 - Assembly Language
 
 <br>
