@@ -1,9 +1,9 @@
 
 <h1 align="center">Hi there! I'm Ayush.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></h1>
 
-<h3 align="center">Machine Learning enthusiast, explorer and a quick learner.</h3>
-
-
+<h3 align="center">Web Enthusiast, explorer and a quick learner.</h3>
+Some published sites:
+https://ayushdpatni.github.io/college-website-design/
 <h3 align="left">Interests:</h3>
 
 - Data Structures And Algorithms
