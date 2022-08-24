@@ -2,14 +2,13 @@
 <h1 align="center">Hi there! I'm Ayush.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></h1>
 
 <h3 align="center">Web Enthusiast, explorer and a quick learner.</h3>
-Some published sites:
+Some published sites: <br>
+https://ayushdpatni.github.io/resume-site/ <br>
 https://ayushdpatni.github.io/college-website-design/
-<h3 align="left">Interests:</h3>
-
+<h3 align="left">Some Interests:</h3>
 - Data Structures And Algorithms
 - Database(Oracle)
 - DAPPs
-- Assembly Language
 
 <br>
 
