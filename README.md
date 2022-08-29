@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi there! I'm Ayush.<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="32px"></h1>
 
-<h3 align="center">Web Enthusiast, explorer and a quick learner.<br></h3> 
+<h3 align="center">Web Enthusiast, Explorer and A Quick Learner.<br></h3> 
 <h3>Some published sites: <br> </h3>
 https://ayushdpatni.github.io/resume-site/ <br>
 https://ayushdpatni.github.io/college-website-design/
